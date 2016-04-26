@@ -1,3 +1,10 @@
 # Instructions for Running my Project
 
-Replace this text with the instructions your classmates will need to run your project. If your code needs any libraries using `pip` or any other tool, those instructions should be here as well. A complete stranger should be able to follow these instructions, so don't be afraid to include videos, screenshots, diagrams, text, whatever helps!
+#my tipcalculator is about counting Tips depend on how good the service.
+to run it simply Clone the final-project repository.
+then run in your computer.
+The program will ask you:
+-What is the total of your bill.
+-It will also ask you how was the sevice.
+-Then it will ask you what percentage would you like. 
+-Lastly, it will give you the amount you should tip.
