@@ -1,3 +1,8 @@
 # Instructions for Running my Project
 
-Replace this text with the instructions your classmates will need to run your project. If your code needs any libraries using `pip` or any other tool, those instructions should be here as well. A complete stranger should be able to follow these instructions, so don't be afraid to include videos, screenshots, diagrams, text, whatever helps!
+This Program is about calculating tips.
+It will ask you the following:
+-What was the total of your meal?
+-How was the service?
+-What percentage would you like to tip?
+-Lastly, It will tell you how much tips you should leave.
